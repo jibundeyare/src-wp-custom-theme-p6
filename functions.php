@@ -1,7 +1,5 @@
 <?php
 
-require __DIR__.'/recette_type.php';
-
 /**
  * CSS
  */
